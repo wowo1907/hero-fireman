@@ -66,4 +66,6 @@ By using the Application, you are giving your consent to the Service Provider pr
 Contact us
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at mehmetvolkanyurtseven30@gmail.com.
 
+https://wowo1907.github.io/hero-fireman/app-ads.txt
+
 ca-app-pub-2742014847071881~3010481141
